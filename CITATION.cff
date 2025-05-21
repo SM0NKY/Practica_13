@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Si usa este software, por favor cite como se indica a continuación."
+authors:
+  - family-names: "SM0NKY_"
+title: "Métodos Numéricos para Sistemas de Ecuaciones Lineales"
+version: 1.0.0
+date-released: 2025-05-20
+repository-code: "https://github.com/SM0NKY/Practica_13"
+license: MIT
+keywords:
+  - "métodos numéricos"
+  - "sistemas de ecuaciones lineales"
+  - "Gauss-Seidel"
+  - "Jacobi"
+  - "rref"
+  - "MATLAB" 

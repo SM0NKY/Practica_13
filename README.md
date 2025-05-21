@@ -43,4 +43,15 @@ Los métodos resuelven el siguiente sistema de ecuaciones lineales:
 ### Método rref
 - Solución exacta
 - No requiere iteraciones
-- Usa la forma escalonada reducida de la matriz 
+- Usa la forma escalonada reducida de la matriz
+
+## Citar este trabajo
+
+Si utiliza este código en su investigación, por favor cite este repositorio como:
+
+```
+SM0NKY_, S. (2024). Métodos Numéricos para Sistemas de Ecuaciones Lineales [Software]. 
+GitHub. https://github.com/SM0NKY/Practica_13
+```
+
+Para más detalles de citación, consulte el archivo `CITATION.cff` en este repositorio. 
